@@ -56,7 +56,8 @@
 * схема балансировки нагрузки - отобразить все уровни и механизмы резервирования, указть формулу резервирования (N*2 / N+1)
 * рассчёт количества балансировщиков (ограничители: SSL Termination, пропускная способность сети)
 ### Материалы
-* https://blog.nginx.org/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers (CPS for HTTPS Requests)
+* https://blog.nginx.org/blog/testing-performance-nginx-ingress-controller-kubernetes (2019, TPS)
+* https://blog.nginx.org/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers (2017, CPS for HTTPS Requests)
 ## 5. Логическая схема БД
 ### Формат
 * Картинка со списком таблиц, полей и связей между ними без привязки к конкретным базам и шардингу
