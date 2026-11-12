@@ -55,6 +55,7 @@
 ### Формат
 * схема балансировки нагрузки - отобразить все уровни и механизмы резервирования, указть формулу резервирования (N*2 / N+1)
 * рассчёт количества балансировщиков (ограничители: SSL Termination, пропускная способность сети)
+* описать решение для межсерервисных запросов
 ### Материалы
 * https://blog.nginx.org/blog/testing-performance-nginx-ingress-controller-kubernetes (2019, TPS)
 * https://blog.nginx.org/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers (2017, CPS for HTTPS Requests)
